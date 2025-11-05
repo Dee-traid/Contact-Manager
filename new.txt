@@ -1,0 +1,24 @@
+Bug to fix
+- Go back to menu in the contact details (done)
+- Automatically delete the contact details instead of displaying the contact name and then prompting to delete the contact details.. same thing on the edit contact page(done)
+- add a layer of security before displaying the user details using either pin or password (done)
+- Add country code to the contact saved and then display location or prompt the user to input location or country code
+ 
+- use the function to make a new file if no file exist in the path to save the data entered by the user(done)
+
+
+
+to use country code
+ask the user for country/ state
+store the country and the country code in an array
+
+if the user input is valid and is in the array. then it displays the phone number with the country code
+
+
+
+
+
+
+Next book to read..
+
+Atomic Habits 
